@@ -74,6 +74,34 @@
                     "instructor": "Mr. Daniel Uy"
                 }
             ]
+        },
+        {
+            "student_id": "2026-0004",
+            "first_name": "Michael",
+            "last_name": "Garcia",
+            "program": "BS Information Technology",
+            "year_level": 4,
+            "email": "michael.garcia@example.com",
+            "courses": [
+                {
+                    "course_code": "ITP401",
+                    "course_name": "Advanced Integrated Programming",
+                    "units": 3,
+                    "instructor": "Dr. Luis Santos"
+                },
+                {
+                    "course_code": "SEC402",
+                    "course_name": "Cybersecurity",
+                    "units": 3,
+                    "instructor": "Engr. Maria Lopez"
+                },
+                {
+                    "course_code": "WEB403",
+                    "course_name": "Web Development",
+                    "units": 3,
+                    "instructor": "Ms. Anna Cruz"
+                }
+            ]
         }
     ]
 }
